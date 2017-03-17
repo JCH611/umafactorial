@@ -1,0 +1,8 @@
+git clone ejecutado en el item 1, la usamos para clonar el repositorio indicado en nuestra zona de trabajo para poder hacer los cambios
+git add ejecutado en el item 3, lo usamos cuando hacemos algun cambio y creemos que esta lista para el commit
+git commit -m ejecutado en el item 3, confirma los cambios añadiendo un nodo importante poner un mensaje para saber que hemos cambiado
+git push origin master ejecutado en el item 5, añade al repositorio
+git checkout - b recursivo ejecutado en el item 5, crea una nueva rama para hacer cambios
+git merge ejecutado en el item 12, mezcla dos ramas sobre las que se han ejecutado cambios
+git stash ejecutado en el item 15, guarda temporalmente los cambios
+
